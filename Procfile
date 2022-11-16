@@ -1,0 +1,1 @@
+web: gunicorn Ekagni_AI_ML.wsgi --log-file
